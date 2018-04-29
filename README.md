@@ -1,4 +1,4 @@
-# md-playground
+# md-playground :star:
 
 ## Table of Contents
 
