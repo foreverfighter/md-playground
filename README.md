@@ -6,7 +6,7 @@
 * [Duis viverra](#duis-viverra)
   * [Duis vitae](#duis-vitae)
   * [Ut sit amet](#ut-sit-amet)
-* [Donec conguem](#donec-conguem)
+* [Donec congue](#donec-congue)
 * [Maecenas vulputate](#maecenas-vulputate)
 * [Nam efficitur](#nam-efficitur)
 
